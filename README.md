@@ -2,4 +2,4 @@
 
 This is my repository on Github!
 
-I love :tea:, :soup:, and :trees:!
+I love :tea:, :ramen:, and :ocean:!
